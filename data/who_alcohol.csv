@@ -1,0 +1,334 @@
+,index,Country Name,Year,Alcohol consumption
+0,0,France,2019,11.44
+1,1,Estonia,2019,11.65
+2,2,Czechia,2019,12.73
+3,3,South Africa,2019,7.21
+4,4,United States of America,2019,8.93
+5,5,Estonia,2018,10.81
+6,6,France,2018,11.24
+7,7,Czechia,2018,12.73
+8,8,South Africa,2018,7.19
+9,9,United States of America,2018,8.93
+10,10,France,2017,11.69
+11,11,Czechia,2017,12.73
+12,12,Estonia,2017,13.08
+13,13,South Africa,2017,7.34
+14,14,United States of America,2017,8.89
+15,15,France,2016,11.74
+16,16,Czechia,2016,12.92
+17,17,Estonia,2016,15.61
+18,18,South Africa,2016,7.26
+19,19,United States of America,2016,8.89
+20,20,France,2015,11.87
+21,21,Czechia,2015,12.76
+22,22,Estonia,2015,16.72
+23,23,South Africa,2015,7.2
+24,24,United States of America,2015,8.78
+25,25,France,2014,12.07
+26,26,Czechia,2014,12.75
+27,27,Estonia,2014,17.29
+28,28,South Africa,2014,7.21
+29,29,United States of America,2014,8.78
+30,30,France,2013,11.73
+31,31,Czechia,2013,12.54
+32,32,Estonia,2013,17.75
+33,33,South Africa,2013,7.21
+34,34,United States of America,2013,8.81
+35,35,France,2012,12.22
+36,36,Czechia,2012,12.83
+37,37,Estonia,2012,16.96
+38,38,South Africa,2012,7.22
+39,39,United States of America,2012,8.85
+40,40,France,2011,12.35
+41,41,Czechia,2011,12.56
+42,42,Estonia,2011,16.27
+43,43,South Africa,2011,7.17
+44,44,United States of America,2011,8.66
+45,45,France,2010,12.3
+46,46,Czechia,2010,12.68
+47,47,Estonia,2010,14.97
+48,48,South Africa,2010,7.07
+49,49,United States of America,2010,8.56
+50,50,France,2009,12.66
+51,51,Czechia,2009,13.43
+52,52,Estonia,2009,14.66
+53,53,South Africa,2009,7.25
+54,54,United States of America,2009,8.67
+55,55,France,2008,12.53
+56,56,Czechia,2008,13.65
+57,57,Estonia,2008,16.61
+58,58,South Africa,2008,7.46
+59,59,United States of America,2008,8.74
+60,60,France,2007,12.95
+61,61,Czechia,2007,13.83
+62,62,Estonia,2007,17.47
+63,63,South Africa,2007,7.5
+64,64,United States of America,2007,8.74
+65,65,France,2006,13.05
+66,66,Czechia,2006,13.58
+67,67,Estonia,2006,17.87
+68,68,South Africa,2006,7.3
+69,69,United States of America,2006,8.63
+70,70,France,2005,12.88
+71,71,Czechia,2005,13.66
+72,72,Estonia,2005,16.58
+73,73,South Africa,2005,7.17
+74,74,United States of America,2005,8.55
+75,75,France,2004,13.14
+76,76,Czechia,2004,13.42
+77,77,Estonia,2004,15.52
+78,78,South Africa,2004,7.2
+79,79,United States of America,2004,8.48
+80,80,Estonia,2003,11.64
+81,81,France,2003,13.45
+82,82,Czechia,2003,13.87
+83,83,South Africa,2003,7.32
+84,84,United States of America,2003,8.4
+85,85,Estonia,2002,12.16
+86,86,Czechia,2002,13.77
+87,87,France,2002,13.92
+88,88,South Africa,2002,7.47
+89,89,United States of America,2002,8.33
+90,90,Estonia,2001,10.1
+91,91,Czechia,2001,13.64
+92,92,France,2001,14.15
+93,93,South Africa,2001,7.56
+94,94,United States of America,2001,8.25
+95,95,Czechia,2000,13.9
+96,96,France,2000,13.92
+97,97,South Africa,2000,7.7
+98,98,United States of America,2000,8.21
+99,99,Estonia,2000,9.03
+100,100,South Africa,1999,10.81
+101,101,France,1999,13.15
+102,102,Czechia,1999,13.85
+103,103,United States of America,1999,8.21
+104,104,Estonia,1999,8.85
+105,105,South Africa,1998,10.6
+106,106,France,1998,13.27
+107,107,Czechia,1998,13.92
+108,108,Estonia,1998,8.01
+109,109,United States of America,1998,8.1
+110,110,South Africa,1997,10.77
+111,111,France,1997,13.31
+112,112,Czechia,1997,14.05
+113,113,United States of America,1997,8.1
+114,114,Estonia,1997,8.3
+115,115,South Africa,1996,10.76
+116,116,France,1996,13.77
+117,117,Czechia,1996,13.78
+118,118,Estonia,1996,7.97
+119,119,United States of America,1996,8.18
+120,120,Czechia,1995,13.74
+121,121,France,1995,14.12
+122,122,United States of America,1995,8.14
+123,123,Estonia,1995,8.27
+124,124,South Africa,1995,8.96
+125,125,Czechia,1994,13.83
+126,126,France,1994,14.11
+127,127,Estonia,1994,8.18
+128,128,United States of America,1994,8.25
+129,129,South Africa,1994,9.22
+130,130,Czechia,1993,13.72
+131,131,France,1993,14.24
+132,132,Estonia,1993,8.1
+133,133,United States of America,1993,8.4
+134,134,South Africa,1993,8.82
+135,135,Czechia,1992,14.39
+136,136,France,1992,14.72
+137,137,Estonia,1992,7.84
+138,138,United States of America,1992,8.71
+139,139,South Africa,1992,9.13
+140,140,Czechia,1991,13.74
+141,141,France,1991,14.85
+142,142,United States of America,1991,8.71
+143,143,South Africa,1991,9.02
+144,144,Estonia,1991,9.13
+145,145,France,1990,15.73
+146,146,South Africa,1990,9.23
+147,147,United States of America,1990,9.24
+148,148,Estonia,1990,9.84
+149,149,Czechia,1989,13.01
+150,150,France,1989,16.05
+151,151,United States of America,1989,9.16
+152,152,South Africa,1989,9.21
+153,153,Czechia,1988,12.84
+154,154,France,1988,15.86
+155,155,South Africa,1988,9.22
+156,156,United States of America,1988,9.39
+157,157,Czechia,1987,13.2
+158,158,France,1987,15.9
+159,159,South Africa,1987,8.97
+160,160,United States of America,1987,9.61
+161,161,Czechia,1986,13.01
+162,162,France,1986,16.13
+163,163,South Africa,1986,8.85
+164,164,United States of America,1986,9.73
+165,165,Czechia,1985,14.24
+166,166,France,1985,16.59
+167,167,South Africa,1985,8.4
+168,168,United States of America,1985,9.88
+169,169,United States of America,1984,10.18
+170,170,Czechia,1984,14.29
+171,171,France,1984,16.89
+172,172,South Africa,1984,8.77
+173,173,United States of America,1983,10.18
+174,174,Czechia,1983,14.14
+175,175,France,1983,17.72
+176,176,South Africa,1983,8.47
+177,177,United States of America,1982,10.3
+178,178,Czechia,1982,14.12
+179,179,France,1982,18.25
+180,180,South Africa,1982,8.57
+181,181,United States of America,1981,10.45
+182,182,Czechia,1981,14.23
+183,183,France,1981,18.33
+184,184,South Africa,1981,8.78
+185,185,United States of America,1980,10.45
+186,186,Czechia,1980,13.99
+187,187,France,1980,18.97
+188,188,South Africa,1980,8.6
+189,189,United States of America,1979,10.41
+190,190,Czechia,1979,13.17
+191,191,France,1979,19.4
+192,192,South Africa,1979,8.18
+193,193,United States of America,1978,10.26
+194,194,Czechia,1978,14.64
+195,195,France,1978,19.88
+196,196,South Africa,1978,7.51
+197,197,Czechia,1977,14.2
+198,198,France,1977,20.74
+199,199,South Africa,1977,7.46
+200,200,United States of America,1977,9.99
+201,201,United States of America,1976,10.18
+202,202,Czechia,1976,13.62
+203,203,France,1976,20.84
+204,204,South Africa,1976,7.87
+205,205,United States of America,1975,10.18
+206,206,Czechia,1975,13.33
+207,207,France,1975,21.12
+208,208,South Africa,1975,8.37
+209,209,United States of America,1974,10.11
+210,210,Czechia,1974,13.11
+211,211,France,1974,21.15
+212,212,South Africa,1974,8.65
+213,213,Czechia,1973,12.95
+214,214,France,1973,21.4
+215,215,South Africa,1973,8.17
+216,216,United States of America,1973,9.88
+217,217,Czechia,1972,12.66
+218,218,France,1972,21.2
+219,219,South Africa,1972,7.52
+220,220,United States of America,1972,9.69
+221,221,Czechia,1971,11.57
+222,222,France,1971,21.44
+223,223,South Africa,1971,7.31
+224,224,United States of America,1971,9.77
+225,225,Czechia,1970,11.9
+226,226,France,1970,21.77
+227,227,South Africa,1970,7.36
+228,228,United States of America,1970,9.54
+229,229,Czechia,1969,11.42
+230,230,France,1969,22.15
+231,231,South Africa,1969,7.16
+232,232,United States of America,1969,9.5
+233,233,Czechia,1968,10.61
+234,234,France,1968,22.48
+235,235,South Africa,1968,6.91
+236,236,United States of America,1968,9.27
+237,237,Czechia,1967,10.64
+238,238,France,1967,23.05
+239,239,South Africa,1967,6.73
+240,240,United States of America,1967,8.97
+241,241,Czechia,1966,10.49
+242,242,France,1966,23.32
+243,243,South Africa,1966,6.59
+244,244,United States of America,1966,8.78
+245,245,Czechia,1965,10.18
+246,246,France,1965,23.37
+247,247,South Africa,1965,6.37
+248,248,United States of America,1965,8.59
+249,249,France,1964,23.96
+250,250,South Africa,1964,5.87
+251,251,United States of America,1964,8.44
+252,252,Czechia,1964,9.36
+253,253,France,1963,24.63
+254,254,South Africa,1963,5.35
+255,255,United States of America,1963,8.14
+256,256,Czechia,1963,9.06
+257,257,France,1962,24.6
+258,258,United States of America,1962,7.99
+259,259,South Africa,1962,8.13
+260,260,Czechia,1962,9.12
+261,261,France,1961,26.04
+262,262,South Africa,1961,7.41
+263,263,United States of America,1961,7.8
+264,264,Czechia,1961,9.0
+265,265,United States of America,1960,7.83
+266,0,California,2021,8.215853864
+267,1,California,2020,7.77144673
+268,2,California,2019,7.206285017000001
+269,3,California,2018,7.345966646000001
+270,4,California,2017,7.304705677
+271,5,California,2016,7.266473036
+272,6,California,2015,7.302434431000001
+273,7,California,2014,7.280857594
+274,8,California,2013,7.440601896000001
+275,9,California,2012,7.340288531
+276,10,California,2011,7.379278254
+277,11,California,2010,6.880361216000001
+278,12,California,2009,6.901559512
+279,13,California,2008,6.985974155000001
+280,14,California,2007,6.883768085000002
+281,15,California,2006,7.060546732000001
+282,16,California,2005,6.64717996
+283,17,California,2004,6.766041834000001
+284,18,California,2003,6.787240130000001
+285,19,California,2002,6.526425381
+286,20,California,2001,6.618789385
+287,21,California,2000,6.699797159
+288,22,California,1999,6.6547507800000005
+289,23,California,1998,6.5718503010000004
+290,24,California,1997,6.661185977000001
+291,25,California,1996,6.770205785
+292,26,California,1995,6.739543964
+293,27,California,1994,6.750521653000001
+294,28,California,1993,7.026856583000001
+295,29,California,1992,7.3137906610000005
+296,30,California,1991,7.743813237
+297,31,California,1990,8.153394599
+298,32,California,1989,8.433893480000002
+299,33,California,1988,8.679566589
+300,34,California,1987,9.090662115
+301,35,California,1986,9.494186821000001
+302,36,California,1985,9.629704498999999
+303,37,California,1984,9.698977502
+304,38,California,1983,9.92534502
+305,39,California,1982,9.905660888000002
+306,40,California,1981,10.222121164
+307,41,California,1980,10.454166797
+308,42,California,1979,10.19789454
+309,43,California,1978,10.266789002000001
+310,44,California,1977,9.98969699
+311,45,California,1976,9.650902795
+312,46,California,1975,9.479423722
+313,47,California,1974,9.284475107
+314,48,California,1973,9.086876705
+315,49,California,1972,8.837039645
+316,50,California,1971,8.652311637
+317,51,California,1970,8.141281287
+318,52,California,1969,8.219260733
+319,53,California,1968,7.589368509000001
+320,54,California,1967,7.252467019
+321,55,California,1966,7.367164942
+322,56,California,1965,7.136254931999999
+323,57,California,1964,7.102943324000001
+324,58,California,1963,6.644908714
+325,59,California,1962,6.595698384000002
+326,60,California,1961,6.460559247000001
+327,61,California,1960,6.339047586000001
+328,62,California,1955,6.071797640000001
+329,63,California,1950,6.587370482000001
+330,64,California,1945,7.747220106000001
+331,65,California,1940,5.5899149470000005
+332,66,California,1935,5.951800143
